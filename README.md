@@ -64,23 +64,21 @@ cloud-toolkit/
 
 ├── cloud-toolkit.py      # 主程序
 
-├── nginx\_manager.py      # Nginx 管理模块
+├── nginx_manager.py      # Nginx 管理模块
 
-├── ec2\_manager.py        # EC2 管理模块
-
-├── main.py               # 交互式菜单（可选）
+├── ec2_manager.py        # EC2 管理模块
 
 ├── README.md
 
 └── 截图/
 
-&#x20;   ├── screenshot\_help.png
+&#x20;   ├── screenshot_help.png
 
-&#x20;   ├── screenshot\_list.png
+&#x20;   ├── screenshot_list.png
 
-&#x20;   ├── screenshot\_nginx\_status.png
+&#x20;   ├── screenshot_nginx_status.png
 
-&#x20;   └── screenshot\_ec2.png
+&#x20;   └── screenshot_ec2.png
 
 ```
 
@@ -166,25 +164,25 @@ python3 cloud-toolkit.py menu
 
 \### 帮助信息
 
-!\[帮助信息](./screenshot\_help.png)
+!\[帮助信息](./screenshot_help.png)
 
 
 
 \### 命令列表
 
-!\[命令列表](./screenshot\_list.png)
+!\[命令列表](./screenshot_list.png)
 
 
 
 \### Nginx 状态
 
-!\[Nginx 状态](./screenshot\_nginx\_status.png)
+!\[Nginx 状态](./screenshot_nginx_status.png)
 
 
 
 \### EC2 模拟
 
-!\[EC2 模拟](./screenshot\_ec2.png)
+!\[EC2 模拟](./screenshot_ec2.png)
 
 
 
