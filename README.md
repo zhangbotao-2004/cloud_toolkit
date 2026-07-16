@@ -82,10 +82,11 @@ cloud-toolkit/
 ![命令列表](./截图/screenshot_list.png)
 
 ### Nginx 状态
-![Nginx 状态](./截图/screenshot_nginx_status.png)
+![Nginx 状态](./截图/screenshot_nginx-status.png)
 
 ### EC2 模拟
 ![EC2 模拟](./截图/screenshot_ec2.png)
+
 \### 1. 安装依赖
 
 ```bash
