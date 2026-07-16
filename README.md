@@ -159,28 +159,18 @@ python3 cloud-toolkit.py menu
 
 
 \## 项目截图
+## 项目截图
 
-
-
-\### 帮助信息
-
+### 帮助信息
 ![帮助信息](./截图/screenshot_help.png)
 
-
-
-\### 命令列表
-
+### 命令列表
 ![命令列表](./截图/screenshot_list.png)
 
+### Nginx 状态
+![Nginx 状态](./截图/screenshot_nginx_status.png)
 
-
-\### Nginx 状态
-
-![Nginx 状态](./截图/screenshot_nginx-status.png)
-
-
-
-\### EC2 模拟
+### EC2 模拟
 ![EC2 模拟](./截图/screenshot_ec2.png)
 
 
